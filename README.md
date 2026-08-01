@@ -29,6 +29,13 @@ End-to-end pipeline over SECOP II public procurement data. Extracted 3.5M contra
 
 Cross-referenced 166,776 vulnerabilities across three sources to test whether CVSS severity alone is a defensible patch-prioritization criterion.
 
+### [Detección de ataques en logs de servidor web](https://github.com/Polvo07/deteccion-logs)
+`Python` `pandas` `Bash` `Linux / WSL`
+
+Defensive detection over web server access logs: brute force, scanning, SQL injection, and anomalous volume. Pairs a fast terminal triage in Linux with a Python rule engine, and measures its own precision against a labeled ground truth instead of hiding behind a demo.
+
+**Finding:** 90.9% precision on a labeled 18,491-request log, catching 10 of 12 planted attackers with a single false positive.
+
 <br>
 
 ## Skills
