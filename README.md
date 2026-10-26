@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:andresfdominguezp@outlook.com)
 
 ![Spanish](https://img.shields.io/badge/Spanish-Native-1E3A8A?style=flat-square)
-![English](https://img.shields.io/badge/English-B2-2563EB?style=flat-square)
+![English](https://img.shields.io/badge/English-C1-2563EB?style=flat-square)
 
 </div>
 
